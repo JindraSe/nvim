@@ -1,0 +1,7 @@
+python_scripts/
+lua/vimwiki/
+lua/keymaps_coc.lua
+lua/debugging.lua
+lua/vimwiki-settings.lua
+coc-settings.json
+
